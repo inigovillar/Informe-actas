@@ -1,0 +1,6 @@
+{
+  "name": "Google Sheets Dashboard",
+  "description": "Un dashboard interactivo y elegante para visualizar, filtrar, ordenar y analizar datos procedentes de Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
